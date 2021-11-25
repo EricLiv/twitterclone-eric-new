@@ -3,6 +3,8 @@ Let’s make simple Twitter. Users can post tweets and see everyone’s them.
 To make the project simple, we do not have a sign/login function.
 So there are not user accounts and follow function. You can challenge after you finish the course.
 
+> There is an issue with my environment. Kindly checkout the live demo for deployed project
+
 # Checkout [Live Demo](https://erictwitter.herokuapp.com/)!
 
 ![Screenshot](https://user-images.githubusercontent.com/91717723/137626943-c96d631f-afab-4fdf-a72e-2f872dd5a96b.png)
